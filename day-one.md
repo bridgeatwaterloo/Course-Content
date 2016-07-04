@@ -78,7 +78,7 @@ Coding our markup and styling with CSS
 
 # Resources
 
-HTML/CSS Basics: (Playto Tutorial)[https://learn.playto.io/html-css/lesson/0]
+HTML/CSS Basics: [Playto Tutorial](https://learn.playto.io/html-css/lesson/0)
 
 
 
