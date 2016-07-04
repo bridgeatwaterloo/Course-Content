@@ -34,21 +34,21 @@ To truly be creative with technology you need to know what's out there.
 
 #### History of technology
 
-Early Computers
-The Internet
-The Web
-HTTP
-Browsers
-Data centres and the cloud
-Smartphones
-Apps
-Internet of Things
-Open Hardware
-Web Techologies
+* Early Computers
+* The Internet
+* The Web
+* HTTP
+* Browsers
+* Data centres and the cloud
+* Smartphones
+* Apps
+* Internet of Things
+* Open Hardware
+* Web Techologies
 
 Discussion to a thread
 
-### Session 3:
+### Session 3: Our own websites
 
 Week One we will be working on our own websites. By the end of this week you'll have designed and developed your own site, and have it live on the web
 
@@ -75,6 +75,10 @@ Therefore what features will we need to include?
 ### Session 4:
 
 Coding our markup and styling with CSS
+
+# Resources
+
+HTML/CSS Basics: (Playto Tutorial)[https://learn.playto.io/html-css/lesson/0]
 
 
 
