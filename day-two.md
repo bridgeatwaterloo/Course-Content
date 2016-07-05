@@ -18,42 +18,54 @@
 
 #### Comments:
 
-  <!-- I am a comment, ignored by the browser -->
-  <p>I am a paragraph displayed by the browser</p>
+```
+<!-- I am a comment, ignored by the browser -->
+<p>I am a paragraph displayed by the browser</p>
+```
 
 #### Tags:
-  <html>
-  <head>
-  <body>
-  <header>
-  <section>
-  <footer>
-  <div>
-  <p>
-  <img>
-  <a>
+```
+<html>
+<head>
+<body>
+<header>
+<section>
+<footer>
+<div>
+<p>
+<img>
+<a>
+```
 
 #### Classes:
 
 In your HTML file:
 
-  <h1 class="tagline">Heading content</h1>
+```
+<h1 class="tagline">Heading content</h1>
+```
 
 And then in your CSS:
 
-  h1.tagline {
-    font-size: 120%;
-  }
+```
+h1.tagline {
+  font-size: 120%;
+}
+```
 
 or to target all HTML tags with a class of 'tagline', not just h1s:
 
-  .tagline {
-    font-size: 120%;
-  }
+```
+.tagline {
+  font-size: 120%;
+}
+```
 
 #### Image Attributes
 
-  <img src="path/to/image.jpg" alt="Description of image">
+```
+<img src="path/to/image.jpg" alt="Description of image">
+```
 
 #### Image optimisation
 
