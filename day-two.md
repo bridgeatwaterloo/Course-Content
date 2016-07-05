@@ -162,6 +162,23 @@ body {
   background-repeat: no-repeat;
 }
 ```
+#### Responsive web design
+
+Having elements respond to different viewports is very important for **'UX'** (User experience). One way we learnt to implement this is by using the ```<meta>``` tag in the ```<head>```. For more information click [here](http://www.w3schools.com/css/css_rwd_viewport.asp) and [here!](http://www.w3schools.com/tags/tag_meta.asp)
+
+```
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  	<title></title>
+</head>
+<body>
+
+</body>
+</html>
+
+```
 
 ### Further reading
 
