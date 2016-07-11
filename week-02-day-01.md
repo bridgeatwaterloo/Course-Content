@@ -38,8 +38,8 @@ We will work on a brief that will kickstart our work on The Other, as well as re
 
 Please download the following tools:
 
-[GitHub desktop](https://desktop.github.com/)
-[Arduino](https://www.arduino.cc/en/Main/Software)
+* [GitHub desktop](https://desktop.github.com/)
+* [Arduino](https://www.arduino.cc/en/Main/Software)
 
 
 
