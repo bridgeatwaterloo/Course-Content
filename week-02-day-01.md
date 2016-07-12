@@ -10,29 +10,51 @@ You will also be continuing your work on your personal websites, making use of l
 
 Next week we will start working properly on David.
 
-### Session 1
+### Session 1 & 2
 
-#### Introduction to Programming
+### Introduction to Programming
 
 We will discuss computational thinking and then look at Blockly together.
 
-[Google Blockly](https://blockly-games.appspot.com/maze)
+Having got into the discipline of writing syntax in HTML and CSS, it's time to look at programming. We will start with some thought exercises and then use a visual programming environment, Google Blockly, to express computational ideas without syntax holding us back.
 
-#### Further Work
+#### Session notes:
 
-[Learneroo Blockly](https://www.learneroo.com/modules/139/nodes/727)
+* Functions: Actions
+* Variables: Data
+  * true/false (boolean)
+  * objects
+  * numbers (with units, decimal places)
+* Logic: Decisions
+  * While loops
+  * If statements
 
-#### Session 2
+##### F.R.E.D
 
-##### GitHub and Collaboration
+While cup isn't present:
 
-[GitHub](https://github.com)
+* Spin 60deg in 1 second
+* Find Cup
+* If Cup is visible, break loop
+
+Walk Forward
+
+If distanceToCup less than or equals 5cm
+
+*stop
+
+Very exact: don't assume anything
+Working with loops – they stop when some condition becomes true
 
 #### Sessions 3 & 4
 
 Programming Arduinos in teams.
 
 We will work on a brief that will kickstart our work on The Other, as well as repeating some of the concepts we learnt in Google Blockly.
+
+We wired up our Arduinos using the Arduino Fade sketch.
+
+Pull request please!!
 
 ### Software required
 
