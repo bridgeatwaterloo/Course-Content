@@ -97,7 +97,7 @@ var elements = document.getElementsByClassName('view');
 
 ```
 
-This returns "an array-like object" of elements. So, elements[0] will equal the first <section class="view">, elements[1] the second, and so on.
+This returns "an array-like object" of elements. So, elements[0] will equal the first section.view, elements[1] the second, and so on.
 
 To hide all the elements, you would have to loop through this array, and set each element's display property to 'none'
 
@@ -129,7 +129,7 @@ Similarly, we can get just one element by using the same syntax:
 $('.view-checkin')
 ```
 
-Will return just the <section class="view-checkin">
+Will return just the section.view-checkin
 
 And we can then run any jQuery method on it:
 
