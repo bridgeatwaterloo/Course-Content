@@ -68,6 +68,8 @@ nav ul li a {
 [Mozilla Developer Network (MDN): Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 * [CSS Selectors](http://www.w3schools.com/cssref/css_selectors.asp)
 * [HTML5 Boilerplate](http://html5boilerplate.com)
+* __Extensive__ 1 hour long [video](https://www.youtube.com/watch?v=gqOEoUR5RHg) explaining how to get started with Bootstrap v3.3.6 (4.0 currently in Alpha).
+* [Initializr](http://www.initializr.com/) is a great way to create a HTML5 template.
 
 ### Further reading
 
